@@ -1,0 +1,12 @@
+{
+    "dbConnection": {
+        "address": "192.168.56.102",
+        "name": "minidrive",
+        "user": "accesodatos",
+        "password": "abc123."
+    },
+
+    "app": {
+        "directory": "/home/user/minidrive"
+    }
+}
