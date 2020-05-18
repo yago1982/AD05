@@ -37,4 +37,6 @@ module com.ymourino.minicloud {
     requires org.apache.commons.io;
     requires org.hibernate.orm.core;
     requires org.postgresql.jdbc;
+
+    opens com.ymourino.ad05.utils;
 }
